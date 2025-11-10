@@ -9,13 +9,21 @@ body {
     width: 100vw;
 }
 
-#iphone{
+#iphone {
     background-image: url(imagens/frame-iphone.png);
     background-size: cover;
     height: 650px;
     width: 320px;
+    margin: auto;
+    padding: 0px 0px 0px 10px;
 }
 
-iframe{
-    margin: 83px 22px;
+#frame {
+    width: 100%;
+    margin: auto;
+}
+
+iframe {
+    margin: 83px auto;
+    
 }
